@@ -5,8 +5,6 @@
   "author": {
     "name": "Alex McFarland"
   },
-  "includes": {
-    "agents": ["newsletter-writer"],
-    "skills": ["ghostwriter-interview", "thought-leadership", "how-to-guide"]
-  }
+  "agents": "./agents/",
+  "skills": "./skills/"
 }
