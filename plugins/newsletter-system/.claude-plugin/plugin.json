@@ -1,0 +1,12 @@
+{
+  "name": "newsletter-system",
+  "description": "Complete newsletter writing workflow. Includes newsletter-writer agent plus ghostwriter-interview, thought-leadership, and how-to-guide skills.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Alex McFarland"
+  },
+  "includes": {
+    "agents": ["newsletter-writer"],
+    "skills": ["ghostwriter-interview", "thought-leadership", "how-to-guide"]
+  }
+}

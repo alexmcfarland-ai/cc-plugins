@@ -1,0 +1,16 @@
+{
+  "name": "co-writer",
+  "owner": {
+    "name": "Alex McFarland",
+    "email": "alex@alexmcfarland.ai"
+  },
+  "description": "Agent workflows for the Co-Writer System. Complete writing systems with agents and skills bundled together.",
+  "plugins": [
+    {
+      "name": "newsletter-system",
+      "source": "./plugins/newsletter-system",
+      "description": "Complete newsletter writing workflow. Includes newsletter-writer agent plus ghostwriter-interview, thought-leadership, and how-to-guide skills.",
+      "version": "1.0.0"
+    }
+  ]
+}
